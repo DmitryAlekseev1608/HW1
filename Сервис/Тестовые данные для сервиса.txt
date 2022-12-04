@@ -1,0 +1,15 @@
+{
+  "year": 2010,
+  "max_torque_rpm": 2200,
+  "km_driven": 168000,
+  "mileage": 14,
+  "engine": 2498,
+  "max_power": 112,
+  "torque": 260,
+  "max_power_engine": 0.05,
+  "fuel": "Diesel",
+  "seller_type": "Individual",
+  "transmission": "Manual",
+  "owner": "First Owner",
+  "seats": "5.0"
+}
